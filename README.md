@@ -15,7 +15,7 @@ The current build keeps reward/bonus scenes centered with clean black margins an
 
 ## Download and test
 
-Download the [Windows x64 and Linux x86-64 packages](https://github.com/Adoregabriel2005/mushroomrecompiled/releases/tag/v1.6.0), extract the complete package, and run **MushroomRecompiled.exe** on Windows. For Linux, run `bash run-steamdeck.sh --rom "/path/game.nes"`; see [STEAMDECK.md](STEAMDECK.md).
+Download the [Windows x64 and Linux x86-64 packages](https://github.com/gorigamia/mushroomrecompiled/releases/tag/v1.6.0), extract the complete package, and run **MushroomRecompiled.exe** on Windows. For Linux, run `bash run-steamdeck.sh --rom "/path/game.nes"`; see [STEAMDECK.md](STEAMDECK.md).
 
 1. Choose **Select ROM**.
 2. Point to the game ROM as a `.nes` file.

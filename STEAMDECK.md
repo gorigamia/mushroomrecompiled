@@ -13,7 +13,7 @@ compatibility across SteamOS versions are not guaranteed.
 
 ## Binary download
 
-The [v1.6.0 release](https://github.com/Adoregabriel2005/mushroomrecompiled/releases/tag/v1.6.0)
+The [v1.6.0 release](https://github.com/gorigamia/mushroomrecompiled/releases/tag/v1.6.0)
 provides separate Windows x64 and Linux x86-64 packages. Extract the complete
 Linux `.tar.gz`, then run `bash run-steamdeck.sh --rom '/path/game.nes'`.
 The launcher also recognizes the executable beside it in a binary package.
